@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "60e49ce7bfe0163d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7db8716f5bf10e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a8e73bac198f06a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MA II/Lecture Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture Notes"
+            }
+          },
+          {
+            "id": "7d4d5c4362810d3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Lecture Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture Notes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a2edb5cc9e4a5df2",
+    "type": "split",
+    "children": [
+      {
+        "id": "72d4b5e068dbd28b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54889aa56ed21939",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7bd339260d54c783",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "aab22fa2d10fb087",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "2b2a6b5086f551e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b92e9b57213b544",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e1065e3748a18cd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ca/Semester l.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Semester l"
+            }
+          },
+          {
+            "id": "999b835baece4238",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ca/Semester l.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Semester l"
+            }
+          },
+          {
+            "id": "e094032ef846da8d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "43b8f375f1335f5e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MA II/Lecture Notes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Lecture Notes"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9a8e73bac198f06a",
+  "lastOpenFiles": [
+    "DSA/pdf hw/MilenaKuznetsova problem set 1.md",
+    "DSA/hw/w6.dSYM/Contents/Resources/Relocations/aarch64/w6.yml",
+    "DSA/hw/w6.dSYM/Contents/Resources/Relocations/aarch64",
+    "DSA/hw/w6.dSYM/Contents/Resources/DWARF/w6",
+    "DSA/hw/w6.dSYM/Contents/Resources/Relocations",
+    "DSA/hw/w6.dSYM/Contents/Resources/DWARF",
+    "DSA/hw/w6.dSYM/Contents/Resources",
+    "DSA/hw/w6.dSYM/Contents/Info.plist",
+    "DSA/hw/w6.dSYM/Contents",
+    "DSA/hw/w6.dSYM",
+    "DSA/hw/w6",
+    "DSA/Lecture Notes.md",
+    "DSA/Week 5. Problem set.md",
+    "TCS/Lecture Notes.md",
+    "SSAD/C++ & OOP.md",
+    "AGLA/Linear Algebra.md",
+    "AGLA/Analytical Geometry.md",
+    "DSA/res/hash function.png",
+    "DSA/hw/Problem Set Week 4.md",
+    "DSA/res/open addressing.png",
+    "DSA/res/separate chain.png",
+    "DSA/res/ex1.png",
+    "DSA/res/graphic.png",
+    "DSA/res/definition via limits.jpg",
+    "DSA/res/bounds.png",
+    "MA II/Lecture Notes.md",
+    "SSAD/res/translation units.png",
+    "SSAD/res/inheritance.png",
+    "SSAD/Untitled.md",
+    "SSAD/res/types.png",
+    "Untitled.md",
+    "ma/Semester l.md",
+    "agla/Semester l.md",
+    "ca/Semester l.md",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}
