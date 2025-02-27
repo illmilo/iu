@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "new": "cpp",
-        "stdexcept": "cpp",
-        "vector": "cpp",
-        "iostream": "cpp",
-        "unordered_map": "cpp"
-    }
-}

@@ -1,11 +1,7 @@
 # B24-CSE Innopolis University
 
-In this repository, I store some conspects and homeworks I did during my BA education in Innopolis University.
-
-I don't store any data about useless (in my honest opinion) courses though.
+Conspects from key subjects I studied in Innopolis University.
 ## 1st Course
-- [Analytical Geometry and Linear Algebra](AGLA)
-- [Mathematical Analysis](MA)
 ### Semester II
 - [Data Structures and Algorithms](DSA)
 - [Software Systems and Design](SSAD)
