@@ -3,8 +3,10 @@
 Conspects from key subjects I studied in Innopolis University.
 ## 1st Course
 ### Semester II
-- [Data Structures and Algorithms](DSA)
-- [Software Systems and Design](SSAD)
+Discipline|Theory|Practice
+-|-|-
+Data Structures and Algorithms|[DSA/Lecture Notes.md](DSA/Lecture%20Notes.md.md)|[DSA/hw](DSA/hw)
+Software Systems Analysis and Design|[SSAD/C++](SSAD/C++%20&%20OOP.md)|[SSAD/hw](SSAD/hw)
 ## Contribution
 No contributions allowed.
 ## License
